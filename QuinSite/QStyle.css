@@ -1,0 +1,24 @@
+p {
+    font-size: medium;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+
+    background-color: wheat;
+    
+}
+
+img{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    display: inline;
+}
+
+h1{
+    display: flex;
+    font-size: large;
+    justify-content: center;
+}
