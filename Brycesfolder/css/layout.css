@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+head {
+    text-align: center;
+}
+.nav{
+    display: flex;
+    align-items: center;
+}
+.nav ol{
+    display: flex;
+    list-style: none;
+}
+.btn{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    -webkit-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    display: none;
+}
+.btn::before{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: 'Font awesome 5 free';
+    font-weight: 700;
+    ;
+}
+
