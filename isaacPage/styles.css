@@ -99,6 +99,10 @@ body {
     color: #FFF;
 }
 
+hr {
+    color: white;
+}
+
 .content span {
     display: block;
     padding: 12px 0 12px 0;
