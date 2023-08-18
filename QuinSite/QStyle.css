@@ -1,6 +1,7 @@
 p {
-    font-size: larger;
+    font-size: medium;
     background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body{
