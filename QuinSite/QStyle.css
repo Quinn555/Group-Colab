@@ -1,8 +1,12 @@
 p {
     font-size: smaller;
-    background-color: aliceblue;
+    background-color: burlywood;
 }
 
 body{
-    background-color: aqua;
+    background-color: red;
+}
+
+img{
+    background-color: aliceblue;
 }
