@@ -5,7 +5,9 @@ p {
 }
 
 body{
+
     background-color: wheat;
+    
 }
 
 img{
@@ -13,6 +15,7 @@ img{
 }
 
 h1{
+    display: flex;
     font-size: large;
-    border: black;
+    justify-content: center;
 }
