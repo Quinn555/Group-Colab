@@ -12,8 +12,9 @@ body{
 
 img{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     background-color: aliceblue;
+    display: inline;
 }
 
 h1{
