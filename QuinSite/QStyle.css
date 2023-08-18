@@ -11,3 +11,8 @@ body{
 img{
     background-color: aliceblue;
 }
+
+h1{
+    font-size: large;
+    border: black;
+}
